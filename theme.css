@@ -1,5 +1,5 @@
 li {
-  font-size: 50px;
+  font-size: 30px;
 }
 
 ul {
@@ -9,5 +9,47 @@ ul {
 	position: absolute;
 	top: 2em;
 	left: 1em;
-	width: 9em 
+	width: 12em 
+	}
+
+	
+	aside{
+		float:left;
+		width: 30%;
+		display:block;
+	}
+	
+	
+	section {
+		float:right;
+		width: 68%;
+		display:block;
+		
+	}
+	
+	
+	header{
+		width:100%;
+		display:block;
+		
+	}
+	
+	header img{
+		width:100%;
+		display:block;
+		
+	}
+	
+	
+	footer {
+		float:right;
+		clear:both;
+		width:100%;
+		
+	}
+	
+	footer img {
+		width: 10%;
+		display:inline;
+		float:left;
 	}
