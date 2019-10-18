@@ -1,0 +1,19 @@
+{
+    "name": "Hot Beanw",
+    "short_name": "Hot Beanw",
+    "icons": [
+        {
+            "src": "https://onewithsuccess1.github.io/hot-beans/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://onewithsuccess1.github.io/hot-beans/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#cda563",
+    "background_color": "#cda563",
+    "display": "standalone"
+}
