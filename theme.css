@@ -79,3 +79,11 @@ h1 {
 footer img {
 	margin:0.5em;
 }
+
+.right{
+	text-align: right;
+	width:50%;
+	display:block;
+    font-size: 4em;
+	float:right;
+}
