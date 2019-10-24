@@ -87,3 +87,26 @@ footer img {
     font-size: 4em;
 	float:right;
 }
+
+input{
+	padding:0.5em;
+	border: 1px solid black;
+	margin:1em;
+	font-size: 1.5em;
+	width:40%;
+}
+
+.submit input{
+	background-color:aqua;
+	width:80%;
+	margin: 0 auto;
+}
+
+form{
+	margin: 0 5% 20% 5%;
+}
+
+.col {
+	width:40%;
+	float:left;
+}
