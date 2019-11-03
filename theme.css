@@ -1,5 +1,5 @@
 li {
-  font-size: 30px;
+  font-size: 30.5px;
 }
 
 ul {
@@ -22,8 +22,8 @@ ul {
 	
 	
 	section {
-		float:right;
-		width: 68%;
+		float:left;
+		width: 170%;
 		display:block;
 		
 	}
@@ -45,7 +45,7 @@ ul {
 	footer {
 		float:right;
 		clear:both;
-		width:100%;
+		width:145%;
 		
 	}
 	
@@ -89,7 +89,7 @@ footer img {
 }
 
 input{
-	padding:0.5em;
+	padding:1em;
 	border: 1px solid black;
 	margin:1em;
 	font-size: 1.5em;
