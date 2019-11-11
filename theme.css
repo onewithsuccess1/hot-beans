@@ -16,14 +16,14 @@ ul {
 	
 	aside{
 		float:left;
-		width: 70%;
+		width: 30%;
 		display:block;
 	}
 	
 	
 	section {
-		float:left;
-		width: 170%;
+		float:right;
+		width: 70%;
 		display:block;
 		
 	}
@@ -40,12 +40,18 @@ ul {
 		display:block;
 		
 	}
+
+	#content{
+		float:left;
+		clear:both;
+		width:100%;
+}
 	
 	
 	footer {
 		float:right;
 		clear:both;
-		width:145%;
+		width:100%;
 		
 	}
 	
